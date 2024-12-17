@@ -6,3 +6,11 @@
 .scrollbar-hidden {
   scrollbar-width: none;
 }
+
+.shadow-spread-max {
+  box-shadow: 100px 100px 300px black;
+}
+
+.boxer-shadow {
+  box-shadow: 10px 10px rgb(255, 162, 162);
+}
